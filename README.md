@@ -1,8 +1,11 @@
 # app-dev
 My first repository
+
 **My Favourite Series**
-- Black Clover
-- Parasite
-- Penance
-- Naruto
-😂
+
+| Title | Genre |
+| ----------- | ----------- |
+| Black Clover 🖤 | Adventure |
+| Penance 😧 | Thriller |
+| Stranger Things 😲 | Horror |
+| Parasite ✋👀 | Action |
